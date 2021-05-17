@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int balance = -500;
+        int balance = 7000;
         int transfer = 1600;
 
         int bonus;
