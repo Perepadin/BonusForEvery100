@@ -6,7 +6,7 @@ public class Main {
 
         int bonus;
 
-        if (transfer >= 1000) {
+        if (transfer > 1000) {
             bonus = transfer / 100;
         } else {
             bonus = 0;
